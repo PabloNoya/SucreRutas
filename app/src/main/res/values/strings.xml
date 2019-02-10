@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sucre Rutas</string>
+    <string name="title_activity_about">Acerca de la aplicación</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="search_hint">Busca líneas…</string>
+    <string name="send_suggestions">Enviar sugerencia</string>
+    <string name="website">Sitio web</string>
+    <string name="app_description">Sucre Rutas es una aplicaión que muestra los trayectos de
+        las líneas de buses.</string>
+    <string name="search">Búsqueda</string>
+    <string name="search_no_results">No se encontró la línea \" %1$s \"</string>
+    <string name="route_type_going">ida</string>
+    <string name="route_type_coming">vuelta</string>
+    <string name="author">Autor</string>
+    <string name="autor_name">Pablo Daniel Noya Quiroz</string>
+    <string name="special_thanks">Agradecimientos especiales</string>
+    <string name="back">atrás</string>
+    <string name="android_icon">android icon</string>
+    <string name="thanks_to">Comunidad GDG Android Bolivia</string>
+    <string name="thanks_because">Por la formación que recibí en el StudyJam 2018.</string>
+    <string name="view_on_github">Ver en Github</string>
+    <string name="facebook">Facebook</string>
+</resources>

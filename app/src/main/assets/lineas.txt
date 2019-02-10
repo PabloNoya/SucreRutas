@@ -1,0 +1,20 @@
+01,B. 12 de septiembre - Mercado San Antonio
+1,Lajastambo - Azari
+2,B. América - K'ora K'ora
+3,Villa Margarita - Aeropuerto
+4,Liceo Militar - Fancesa
+5,B. Patacón - Villa Charcas
+6,Lechuguillas - B.Cessa
+7,B. Japón - B. Belén
+8,B. Japón - Planta Diésel
+11,B. Alto Sucre - B. San Rafael
+12(amarillo),B. Munaypata - Planta Diésel
+12(rosado),B. Alegría - U. E. Domingo Savio
+14,Av. Faustino Bautista - Mercado Campesino
+A,Max Toledo - Villa Margarita
+B,Av. 2001 - Plaza San Juanillo
+C,B. Cessa - B. Japón
+D,B. Santo Domingo - B. Patacón
+F,Campo Ferial - Cobolde
+I,Azari - Hospital Lajastambo
+L,B. Fortaleza - Mercado San Antonio 
